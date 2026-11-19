@@ -20,4 +20,4 @@ Portal [Fincaraíz Colombia](https://www.fincaraiz.com.co) (arriendo de apartame
 
 
 ## Video de sustentación
-_Enlace de YouTube:_ pendiente
+_Enlace de YouTube:_ https://youtube.com/watch?v=AtYgTHWQT5Q&feature=shared
