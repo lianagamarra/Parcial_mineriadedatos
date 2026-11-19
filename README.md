@@ -2,7 +2,7 @@
 
 Proyecto final de **Ciencia de Datos con Python**. Flujo completo: web scraping automatizado → limpieza → análisis exploratorio → modelo de Machine Learning optimizado.
 
-[![Abrir en Colab](https://colab.research.google.com/drive/1XzIZuhDSEIxd1lAj0B2FmMqkW8lTpS2R?usp=sharing)
+[Abrir en Colab](https://colab.research.google.com/drive/1XzIZuhDSEIxd1lAj0B2FmMqkW8lTpS2R?usp=sharing)
 
 ## Problema
 Predecir el **precio del metro cuadrado** (COP/m²) de apartamentos en arriendo en Medellín a partir de su área, habitaciones, baños, parqueaderos, zona y tipo de inmueble.
