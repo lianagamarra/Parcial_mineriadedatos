@@ -18,23 +18,6 @@ Portal [Fincaraíz Colombia](https://www.fincaraiz.com.co) (arriendo de apartame
 | III. EDA | Histogramas, boxplots por zona, dispersión área vs. precio/m², matriz de correlación. |
 | IV. ML | Train/test (80/20), SVR base, `GridSearchCV` con validación cruzada de 5 folds, comparación del score antes y después de optimizar. Preprocesamiento dentro de un `Pipeline` (sin fuga de datos). |
 
-## Cómo ejecutarlo
-1. Haz clic en el botón **Abrir en Colab** de arriba.
-2. Menú *Entorno de ejecución → Ejecutar todo*.
-
-En local:
-```bash
-pip install -r requirements.txt
-jupyter notebook Proyecto_Final_Precio_m2.ipynb
-```
-
-## Resultados
-_Completa aquí con tus números reales:_ R² en validación cruzada antes → después de `GridSearchCV`, R² / MAE / RMSE en test y mejores hiperparámetros.
-
-## Notas
-- El scraping usa pausas aleatorias entre peticiones para no sobrecargar el servidor.
-- Si el portal cambia su estructura HTML, hay que ajustar las funciones de la sección 2 del cuaderno.
-- Proyecto con fines académicos.
 
 ## Video de sustentación
 _Enlace de YouTube:_ pendiente
